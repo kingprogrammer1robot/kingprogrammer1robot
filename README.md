@@ -1,36 +1,26 @@
 <p align="center">
-    <a href="https://github.com/weebzone/WZML">
+    <a href="https://github.com/kingprogrammer1robot/kingprogrammer1robot">
         <kbd>
-            <img width="250" src="https://telegra.ph/file/496644cbabaeb916e3616.png" alt="WeebZone Logo">
+            
         </kbd>
     </a>
 </p>
 
 <p align="center">
-<div align=center>
-
-[![GitHub forks](https://img.shields.io/github/forks/weebzone/WZML?style=social)](https://github.com/weebzone/WZML/fork)
-[![GitHub followers](https://img.shields.io/github/followers/weebzone?style=social&label=weebzone%20Followers)](https://github.com/weebzone)
-
-----
-
-[![](https://img.shields.io/github/repo-size/weebzone/WZML?color=green&label=Repo%20Size&labelColor=292c3b)](#) [![](https://img.shields.io/github/commit-activity/m/weebzone/WZML?logo=github&labelColor=292c3b&label=Github%20Commits)](#) [![](https://img.shields.io/github/license/weebzone/WZML?style=flat&label=License&labelColor=292c3b)](#)|[![](https://img.shields.io/github/issues-raw/weebzone/WZML?style=flat&label=Open%20Issues&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-closed-raw/weebzone/WZML?style=flat&label=Closed%20Issues&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-pr-raw/weebzone/WZML?style=flat&label=Open%20Pull%20Requests&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-pr-closed-raw/weebzone/WZML?style=flat&label=Closed%20Pull%20Requests&labelColor=292c3b)](#)
-:---:|:---:|
-[![](https://img.shields.io/github/languages/count/weebzone/WZML?style=flat&label=Total%20Languages&labelColor=292c3b&color=blueviolet)](#) [![](https://img.shields.io/github/languages/top/weebzone/WZML?style=flat&logo=python&labelColor=292c3b)](#) [![](https://img.shields.io/github/last-commit/weebzone/WZML?style=flat&label=Last%20Commit&labelColor=292c3b&color=important)](#) [![](https://badgen.net/github/branches/weebzone/WZML?label=Total%20Branches&labelColor=292c3b)](#)|[![](https://img.shields.io/github/forks/weebzone/WZML?style=flat&logo=github&label=Forks&labelColor=292c3b&color=critical)](#) [![](https://img.shields.io/github/stars/weebzone/WZML?style=flat&logo=github&label=Stars&labelColor=292c3b&color=yellow)](#) [![](https://badgen.net/docker/pulls/codewithweeb/weebzone?icon=docker&label=Pulls&labelColor=292c3b&color=blue)](#)
-[![](https://img.shields.io/badge/Telegram%20Channel-Join-9cf?style=for-the-badge&logo=telegram&logoColor=blue&style=flat&labelColor=292c3b)](https://t.me/WeebZone_updates) |[![](https://img.shields.io/badge/Support%20Group-Join-9cf?style=for-the-badge&logo=telegram&logoColor=blue&style=flat&labelColor=292c3b)](https://t.me/WeebZ) |
+<div align=center>|
 
 </div>
 
 ----
 
-## ***WeebZone MLTB***
+
 
 <div align=center>
 
-ℹ️ A Powerful Pyrogram Based Telegram Mirror Leech Bot Modded by Codewithweeb to directly Mirror to Google Drive or Leech to Telegram, with Multi Direct Links Support for Enhanced Mirroring & Leeching.|
+ℹ️ A Powerful Pyrogram Based Telegram Mirror Leech Bot to directly Mirror to Google Drive or Leech to Telegram, with Multi Direct Links Support for Enhanced Mirroring & Leeching.|
 ---|
     
-### ***Source Code*** : [Repo](https://github.com/weebzone/WZML)
+### ***Source Code*** : [Repo](https://github.com/kingprogrammer1robot/kingprogrammer1robot)
 
 #### Note: `If you Like My Work, Give Stars ⭐ to the Repo and Follow Me on Github`
     
@@ -81,7 +71,7 @@ Copyright (C) 2022 WeebZone
 
 |![](https://avatars.githubusercontent.com/u/113664541)|![](https://avatars.githubusercontent.com/u/105407900)|![](https://avatars.githubusercontent.com/u/94453305)|![](https://avatars.githubusercontent.com/u/77075674)|![](https://avatars.githubusercontent.com/u/56303690)|![](https://avatars.githubusercontent.com/u/91935990)|
 |---|---|---|---|---|---|
-|[`CodeWithWeeb`](https://github.com/weebzone)|[`SilentDemonSD`](https://github.com/SilentDemonSD)|[`Ajay Choudhary`](https://github.com/ajay0916)|[`Anasty17`](https://github.com/anasty17)|[`Arshsisodiya`](https://github.com/arshsisodiya/helios-mirror) |[`ToxyTech`](https://github.com/dipeshpatil123)|
+|[`kingprogrammer1robot`](https://github.com/kingprogrammer1robot)|[`SilentDemonSD`](https://github.com/SilentDemonSD)|[`Ajay Choudhary`](https://github.com/ajay0916)|[`Anasty17`](https://github.com/anasty17)|[`Arshsisodiya`](https://github.com/arshsisodiya/helios-mirror) |[`ToxyTech`](https://github.com/dipeshpatil123)|
 | `me` add modules and fixes & many more|Co-Author|Co-Author & Tester|Base Repo|For there BOT_PM and LOG feature| For Task Limit|
 
 </details>
